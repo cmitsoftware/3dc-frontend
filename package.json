@@ -6,7 +6,7 @@
     "@material-ui/core": "^4.5.0",
     "@material-ui/icons": "^4.4.3",
     "@material-ui/styles": "^4.5.0",
-    "apexcharts": "^3.8.6",
+    "apexcharts": "^3.24.0",
     "axios": "^0.19.0",
     "classnames": "^2.2.6",
     "flatpickr": "^4.6.3",
